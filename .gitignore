@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.xlsx
+.env
+uploads/
+exports/
+logs/
